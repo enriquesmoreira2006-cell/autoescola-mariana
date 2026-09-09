@@ -1,9 +1,9 @@
 # CFC Mariana — microsite
 
 Arquivos:
-- index.html
-- style.css
-- script.js
+- index
+- style
+- script
 
 Abra `index.html` no navegador para visualizar.
 
